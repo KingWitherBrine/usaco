@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "VSCODE_py",
+			"path": ".."
+		},
+		{
+			"name": "milkorder_bronze_open18",
+			"path": "../../../Downloads/milkorder_bronze_open18"
+		}
+	],
+	"settings": {}
+}
